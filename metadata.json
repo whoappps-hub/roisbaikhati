@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library",
+  "description": "Sistem perpustakaan pintar dengan pencarian buku berbasis AI, pendataan real-time, statistik peminjaman, rating komunitas, dan mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
