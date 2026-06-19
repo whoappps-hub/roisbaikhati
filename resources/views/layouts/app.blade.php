@@ -105,7 +105,7 @@
             <div class="flex-grow overflow-y-auto p-4 space-y-7">
                 <!-- Main Navigation -->
                 <div class="space-y-1.5">
-                    <span class="block px-3 text-[10px] font-mono font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">Navigasi Utama</span>
+                    <span class="block px-3 text-[10px] font-mono font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">Beranda Utama</span>
                     
                     <a href="{{ route('katalog.index') }}" class="w-full px-3 py-2.5 rounded-xl text-xs font-bold transition-all flex items-center gap-3 {{ Route::currentRouteName() == 'katalog.index' ? 'text-blue-600 bg-blue-50/50 dark:text-blue-300 dark:bg-blue-500/10 font-extrabold' : 'text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800/40 hover:text-slate-900 dark:hover:text-slate-100' }}">
                         <i data-lucide="layout" class="w-4 h-4 shrink-0"></i>
@@ -203,9 +203,9 @@
                 <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
                     <div class="flex items-center gap-2">
                         <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                        <p class="text-[11px] text-slate-400 dark:text-slate-500 font-mono">Status Sistem: Database Terkoneksi (SQLite Dynamic Engine)</p>
+                        <p class="text-[11px] text-slate-400 dark:text-slate-500 font-mono">Status Sistem: Online</p>
                     </div>
-                    <p class="text-[11px] text-slate-400 dark:text-slate-500 font-mono">&copy; {{ date('Y') }} E-Pustaka Engine. Dibuat dengan Blade & PHP Laravel.</p>
+                    <p class="text-[11px] text-slate-400 dark:text-slate-500 font-mono">&copy; {{ date('Y') }} E-Pustaka Engine. Mahasiswa Teknologi Informasi.</p>
                 </div>
             </footer>
         </main>
@@ -315,7 +315,7 @@
                         <span class="text-base">💡</span>
                         <div class="flex-1">
                             <h6 class="font-bold heading-font">Notifikasi Layanan Pintar</h6>
-                            <p class="mt-0.5 text-slate-600 dark:text-slate-400">Pengembali Buku 'Filosofi Teras' sudah didekatkan koordinat lokasinya ke Rak Sosial S-01.</p>
+                            <p class="mt-0.5 text-slate-600 dark:text-slate-400">Status Sistem: Online</p>
                         </div>
                         <button onclick="this.parentElement.remove()" class="text-slate-400 hover:text-slate-700 dark:hover:text-white font-extrabold text-sm absolute right-3 top-3">×</button>
                     </div>

@@ -90,7 +90,7 @@
                 <!-- Full Name field -->
                 <div class="space-y-1">
                     <label class="text-[10px] uppercase tracking-wider font-extrabold text-slate-500 block font-mono">
-                        Nama Lengkap *
+                        Nama Lengkap
                     </label>
                     <div class="relative">
                         <span class="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400">👤</span>
@@ -99,7 +99,7 @@
                             type="text"
                             name="name"
                             value="{{ old('name') }}"
-                            placeholder="Contoh: Achmad Naufal"
+                            placeholder="Contoh:Masukan Nama Lengkap"
                             class="w-full px-4 py-3 pl-10 rounded-xl bg-slate-55 border border-slate-200 text-xs text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all font-sans"
                         />
                     </div>
@@ -108,7 +108,7 @@
                 <!-- Email field -->
                 <div class="space-y-1">
                     <label class="text-[10px] uppercase tracking-wider font-extrabold text-slate-500 block font-mono">
-                        Alamat Email *
+                        Alamat Email
                     </label>
                     <div class="relative">
                         <span class="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400">📧</span>
@@ -117,7 +117,7 @@
                             type="email"
                             name="email"
                             value="{{ old('email') }}"
-                            placeholder="Contoh: naufal@perpus.id"
+                            placeholder="Contoh: Masukan registrasi email"
                             class="w-full px-4 py-3 pl-10 rounded-xl bg-slate-55 border border-slate-200 text-xs text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all font-sans"
                         />
                     </div>
@@ -126,7 +126,7 @@
                 <!-- Password field -->
                 <div class="space-y-1">
                     <label class="text-[10px] uppercase tracking-wider font-extrabold text-slate-500 block font-mono">
-                        Kata Sandi *
+                        Kata Sandi
                     </label>
                     <div class="relative">
                         <span class="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400">🔒</span>

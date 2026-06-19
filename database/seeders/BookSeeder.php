@@ -29,7 +29,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Panduan lengkap membangun web modern interaktif berbasis sasis React 18, Next.js, dan Tailwind CSS dari dasar hingga mahir.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://media.istockphoto.com/id/1344037902/id/foto/bereaksi-prasasti-asli-terhadap-laptop-dan-kode.jpg?s=1024x1024&w=is&k=20&c=f2gIh7LZq-4uHTV1Mhd10blL9YKXK530pAaFcNhi-9c=',
+                'coverUrl' => 'https://santrikoding.com/storage/courses/3bb3ec62-67a0-4a78-9f0c-f36294e09a3f.webp',
             ],
             [
                 'id' => 2,
@@ -55,7 +55,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Buku pengembangan diri praktis yang mengenalkan filsafat Yunani-Romawi kuno (Stoisisme) untuk mengatasi kekhawatiran berlebih di era modern.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2023/11/27/kjf6cgigkomf6sy9o5qauu.jpg',
             ],
             [
                 'id' => 4,
@@ -68,7 +68,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 2,
                 'synopsis' => 'Menelusuri sejarah Indonesia sejak zaman kerajaan Buddha-Hindu, kejayaan Islam, era kolonial, hingga terbentuknya Republik Indonesia modern.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1505993597083-3bd19f7c3f3d?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://divapress-online.com/Files/cover_buku/1738289858_-.jpg',
             ],
             [
                 'id' => 5,
@@ -81,7 +81,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 2,
                 'synopsis' => 'Menguraikan konsep mekanika kuantum yang rumit, paradoks kucing Schrodinger, hingga keterikatan kuantum dalam bahasa populer yang menawan.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/plain/https://ebooks.gramedia.com/ebook-covers/76764/image_highres/BLK_FK2022243297.jpg',
             ],
             [
                 'id' => 6,
@@ -94,7 +94,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Strategi teruji untuk membentuk kebiasaan baik, menghentikan kebiasaan buruk, dan menguasai perubahan perilaku kecil yang menghasilkan dampak luar biasa.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/94864/625221008.jpg',
             ],
             [
                 'id' => 7,
@@ -107,7 +107,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Analisis dinamika ekonomi makro global dan dampaknya terhadap startup, ekosistem mata uang kripto, serta inflasi di era serba digital.',
                 'rating' => 4.3,
-                'coverUrl' => 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://penerbit.stekom.ac.id/public/journals/12/article_460_cover_en_US.png',
             ],
             [
                 'id' => 8,
@@ -120,7 +120,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Buku panduan klasik bagi programmer profesional untuk menulis kode yang mudah dibaca, dipelihara, dan diuji.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://m.media-amazon.com/images/I/81Rnac2Fq+L._SY522_.jpg',
             ],
             [
                 'id' => 9,
@@ -133,7 +133,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Penjelasan lengkap mengenai desain arsitektur modern menggunakan Docker, Kubernetes, dan Google Cloud Platform.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://m.media-amazon.com/images/I/81KAJgLnUBL._SY522_.jpg',
             ],
             [
                 'id' => 10,
@@ -146,7 +146,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 3,
                 'synopsis' => 'Mengamankan jaringan komputer, server web, dan data pribadi dari serangan siber dengan metode pertahanan terkini.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/NETWORK_SECURITY_DAN_CYBER_SECURITY_DVD.png',
             ],
             [
                 'id' => 11,
@@ -159,7 +159,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Langkah mudah memahami sintaks Python, manipulasi data menggunakan Pandas, NumPy, serta visualisasi data dasar.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://cvalfabeta.com/wp-content/uploads/2025/06/SigitS-DasarBhsPemrograman125-Cover-667x1024.jpg',
             ],
             [
                 'id' => 12,
@@ -172,7 +172,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Menyelami teknik user research, wireframing, pembuatan sistem desain, hingga prototipe interaktif modern di Figma.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/24.01.910.jpg',
             ],
             [
                 'id' => 13,
@@ -185,7 +185,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 3,
                 'synopsis' => 'Panduan implementasi arsitektur Model-View-ViewModel (MVVM) modern untuk aplikasi Android berkinerja tinggi.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://m.media-amazon.com/images/I/411IvRPcA9L._SY445_SX342_QL70_FMwebp_.jpg',
             ],
             [
                 'id' => 14,
@@ -198,7 +198,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Membahas cara kerja rantai blok, konsensus terdistribusi, serta pemrograman smart contract menggunakan Solidity.',
                 'rating' => 4.4,
-                'coverUrl' => 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://m.media-amazon.com/images/I/61XJZJZJZJL._SY522_.jpg',
             ],
             [
                 'id' => 15,
@@ -211,7 +211,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Salah satu karya sains terpopuler sepanjang masa yang membahas hubungan antara peradaban manusia dan luasnya kosmos.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1464802686167-b939a6910659?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*RUdxg8mvydBeck3Mq1m38g.jpeg',
             ],
             [
                 'id' => 16,
@@ -224,7 +224,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 2,
                 'synopsis' => 'Buku legendaris yang merumuskan dasar teori evolusi melalui seleksi alam dan adaptasi makhluk hidup terhadap lingkungan.',
                 'rating' => 4.4,
-                'coverUrl' => 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/plain/https://ebooks.gramedia.com/ebook-covers/3327/big_covers/ID_GPU2013MTH04ASOTOOS_B.jpg',
             ],
             [
                 'id' => 17,
@@ -237,7 +237,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Kisah menakjubkan tentang penemuan gen, kode genetik manusia, fajar bioteknologi, hingga perdebatan moral rekayasa genetika.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://penerbitnilacakra.com/wp-content/uploads/2024/07/rahasia-seri-pendidikan-seksual-untuk-anak-cover-e1724288510209.webp',
             ],
             [
                 'id' => 18,
@@ -250,7 +250,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 3,
                 'synopsis' => 'Mempelajari fisika bintang, galaksi, lubang hitam, sejarah terbentuknya tata surya, dan kosmologi modern.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://i0.wp.com/agosbookstore.com/wp-content/uploads/2022/06/177547b5-dce7-4a83-82e9-152051a6ff94.jpg?fit=700%2C1000&ssl=1',
             ],
             [
                 'id' => 19,
@@ -263,7 +263,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Penjelasan terperinci mengenai metabolisme sel, enzim, protein, DNA/RNA, serta keterkaitannya dengan kesehatan manusia.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1532187863486-abf9d39d66e8?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://i1.rgstatic.net/publication/403605018_BIOKIMIA_DASAR/links/69d5be6fb6bee42358236110/smallpreview.png',
             ],
             [
                 'id' => 20,
@@ -276,7 +276,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Ditulis langsung oleh sang penemu untuk menjelaskan relativitas khusus dan umum tanpa rumus matematika yang rumit.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://tirtabuanamedia.co.id/wp-content/uploads/2023/01/Teori-Relativitas-Einstein.jpg',
             ],
             [
                 'id' => 21,
@@ -289,7 +289,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Analisis dampak pemanasan global terhadap keanekaragaman hayati Indonesia serta pentingnya pembangunan berkelanjutan.',
                 'rating' => 4.3,
-                'coverUrl' => 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://i0.wp.com/agosbookstore.com/wp-content/uploads/2022/06/65efdbe9-63be-4834-a9eb-332cfd81c253.jpg?fit=700%2C1039&ssl=1',
             ],
             [
                 'id' => 22,
@@ -302,7 +302,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 10,
                 'synopsis' => 'Buku fenomenal yang merangkum sejarah peradaban manusia sejak zaman revolusi kognitif hingga era bioteknologi modern.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://e-library.banjarmasinkota.go.id/storage/book_cover/1665980469_4084.jpeg',
             ],
             [
                 'id' => 23,
@@ -315,7 +315,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Analisis historis kepemimpinan Gajah Mada dalam mewujudkan Sumpah Palapa untuk mempersatukan wilayah Nusantara di bawah Majapahit.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1596402184320-417e7178b2cd?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://perpustakaan.jakarta.go.id/catalog-dispusip/uploaded_files/sampul_koleksi/original/Monograf/111102.jpg',
             ],
             [
                 'id' => 24,
@@ -328,7 +328,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Menyingkap sejarah perdagangan rempah-rempah yang menempatkan kepulauan Nusantara sebagai poros diplomasi dan kolonialisme barat.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1596797038530-2c107229654b?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://bintangpusnas.perpusnas.go.id/api25/public/api/get-image/48115_prod_be6dbf13f60c19722ba6227827ca2708.png',
             ],
             [
                 'id' => 25,
@@ -341,7 +341,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 8,
                 'synopsis' => 'Menyelidiki berbagai mitos kuno, perkumpulan rahasia, serta penafsiran sejarah alternatif dari sudut pandang hermetisisme.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://perpustakaan.jakarta.go.id/catalog-dispusip/uploaded_files/sampul_koleksi/original/Monograf/121437.jpg',
             ],
             [
                 'id' => 26,
@@ -354,7 +354,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Otobiografi resmi Presiden pertama Indonesia yang menceritakan perjuangan masa muda, pengasingan, hingga proklamasi kemerdekaan.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://bukukita.com/babacms/displaybuku/96286_f.jpg',
             ],
             [
                 'id' => 27,
@@ -367,7 +367,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 3,
                 'synopsis' => 'Eksplorasi berdirinya Demak, Pajang, Mataram, Cirebon, hingga Banten, serta proses asimilasi budaya lokal dengan ajaran Islam.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://bukuaudio.org/epub/2016/10/kerajaan-islam-di-jawa.jpg',
             ],
             [
                 'id' => 28,
@@ -380,7 +380,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Menceritakan tumbangnya monarki absolut Prancis di tahun 1789 yang merestrukturisasi sistem sosial-politik dunia secara masif.',
                 'rating' => 4.4,
-                'coverUrl' => 'https://images.unsplash.com/photo-1499195333224-3ce974eecb47?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/95086/625222038.jpg',
             ],
             [
                 'id' => 29,
@@ -393,7 +393,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 11,
                 'synopsis' => 'Karya agung sastra Indonesia berlatar awal abad ke-20 yang menceritakan kisah cinta Minke dan Annelies di tengah pergulatan kolonial.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://upload.wikimedia.org/wikipedia/id/5/51/Bumi_Manusia_poster.jpg',
             ],
             [
                 'id' => 30,
@@ -406,7 +406,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 9,
                 'synopsis' => 'Kisah mengharukan tentang perjuangan sepuluh anak di Belitung dalam menempuh pendidikan di sekolah swasta yang serba terbatas.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://upload.wikimedia.org/wikipedia/id/8/8e/Laskar_pelangi_sampul.jpg',
             ],
             [
                 'id' => 31,
@@ -419,7 +419,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Sebuah novel realisme magis kompleks yang menelusuri sejarah kelam peperangan, patriarki, dan keturunan peradaban di Indonesia.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=85&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/93810/622202017.jpg',
             ],
             [
                 'id' => 32,
@@ -432,7 +432,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Novel filsafat yang membawa pembaca dalam perjalanan menjelajahi sejarah pemikiran filsuf barat dari masa Yunani kuno hingga fajar abad ke-20.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://bukukita.com/babacms/displaybuku/100330_f.jpg',
             ],
             [
                 'id' => 33,
@@ -445,7 +445,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Karya filsafat monumentil Tan Malaka yang memandu bangsa Indonesia untuk berpikir rasional dan ilmiah guna melepaskan diri dari mistisisme.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2024/6/3/kvmiih4eluib7d2w2x9zmh.jpg',
             ],
             [
                 'id' => 34,
@@ -458,7 +458,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Novel pemenang penghargaan yang membahas tentang seksualitas perempuan, kebebasan, perjuangan buruh, dan represi politik Orde Baru.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2023/2/28/3u4gvnfpk5bxw2zxwwzsrm.jpg',
             ],
             [
                 'id' => 35,
@@ -471,7 +471,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Trilogi novel sosiokultural yang mengisahkan Srintil and Rasus dengan latar kehidupan dusun miskin yang luluh lantak akibat konflik politik 1965.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/product-metas/uh0d0g8ukg.jpg',
             ],
             [
                 'id' => 36,
@@ -484,7 +484,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 8,
                 'synopsis' => 'Koleksi puisi cinta liris paling romantis dan bersahaja dalam sastra Indonesia modern yang penuh kedalaman makna hidup.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2024/6/3/kvmiih4eluib7d2w2x9zmh.jpg',
             ],
             [
                 'id' => 37,
@@ -497,7 +497,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 9,
                 'synopsis' => 'Panduan psikologi Adlerian yang mengajari kita melepaskan diri dari penilaian orang lain, berdamai dengan trauma, dan meraih kebebasan sejati.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/93954/623221003.jpg',
             ],
             [
                 'id' => 38,
@@ -510,7 +510,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Menunjukkan bahwa kunci kesuksesan jangka panjang bukanlah bakat murni, melainkan kombinasi istimewa antara ketabahan dan hasrat (Grit).',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/93995/623221005.jpg',
             ],
             [
                 'id' => 39,
@@ -523,7 +523,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Buku legendaris tulisan psikiater penyintas kamp konsentrasi Nazi tentang pentingnya menemukan makna hidup dalam penderitaan terpahit sekalipun.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1473186578172-c141e6798cf4?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/products/a7nxmvsx-e.jpeg',
             ],
             [
                 'id' => 40,
@@ -536,7 +536,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Formula sukses legendaris yang merangkum kebiasaan orang-orang terkaya di dunia untuk mengubah hasrat mental menjadi kenyataan fisik.',
                 'rating' => 4.5,
-                'coverUrl' => 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/9786230405990_Think_and_Grow_Rich.jpeg',
             ],
             [
                 'id' => 41,
@@ -549,7 +549,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Mengembangkan perbedaan pola pikir tetap (fixed mindset) vs pola pikir berkembang (growth mindset) yang membentuk kesuksesan hidup.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/products/icc53z5mei.jpg',
             ],
             [
                 'id' => 42,
@@ -562,7 +562,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Metode praktis mengatasi rasa takut, melatih artikulasi, serta menarik simpati pendengar dalam komunikasi profesional dan interpersonal.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://penerbitmadza.com/wp-content/uploads/2024/08/The-Art-Public-Speaking-Menyampaikan-Pesan-yang-Berkesan-scaled.jpg',
             ],
             [
                 'id' => 43,
@@ -575,7 +575,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 8,
                 'synopsis' => 'Eksplorasi konsep Ikigai, yaitu pertemuan antara hasrat, misi, pekerjaan, dan keahlian untuk menemukan alasan bangun di pagi hari.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://assets.kompasiana.com/items/album/2023/08/04/rich-dad-poor-dad-cover-64ccb2814addee2ff81aefb2.jpg?t=o&v=740&x=416',
             ],
             [
                 'id' => 44,
@@ -588,7 +588,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 8,
                 'synopsis' => 'Mengunggap miskonsepsi besar tentang kekayaan, perbedaan aset vs liabilitas, dan bagaimana membiarkan uang bekerja keras untuk kita.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://gpu.id/data-gpu/images/img-book/94906/625203007.jpg',
             ],
             [
                 'id' => 45,
@@ -601,7 +601,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 4,
                 'synopsis' => 'Alkitab perdagangan saham legendaris yang memaparkan prinsip value investing demi menghindari jebakan bursa dan risiko pasar besar.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/Intelligent_Investor_The.jpg',
             ],
             [
                 'id' => 46,
@@ -614,7 +614,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Membahas pentingnya menciptakan inovasi baru yang mengubah monopoli industri dan menciptakan masa depan dari nol menjadi satu.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/plain/https://ebooks.gramedia.com/ebook-covers/99198/image_highres/BLK_ZTOS21738026733861.jpg',
             ],
             [
                 'id' => 47,
@@ -627,7 +627,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 6,
                 'synopsis' => 'Kerangka manajemen inovatif menggunakan iterasi cepat, Minimum Viable Product (MVP), dan pembelajaran terukur dalam startup.',
                 'rating' => 4.7,
-                'coverUrl' => 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/The_Lean_Startup.jpg',
             ],
             [
                 'id' => 48,
@@ -640,7 +640,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 3,
                 'synopsis' => 'Penelitian mendalam tentang bagaimana perusahaan biasa-biasa saja bertransformasi menjadi perusahaan raksasa yang bertahan puluhan tahun.',
                 'rating' => 4.6,
-                'coverUrl' => 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2022/12/5/6uvrurklaulrsxsavgv7yk.jpg',
             ],
             [
                 'id' => 49,
@@ -653,7 +653,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 9,
                 'synopsis' => 'Eksplorasi perilaku emosional manusia terhadap uang, ego, keserakahan, serta cara bijak mengelola kekayaan berkelanjutan.',
                 'rating' => 4.9,
-                'coverUrl' => 'https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://bukuaudio.org/daisy/2024/07/_cover/cover_the_psychology_of_money.jpg',
             ],
             [
                 'id' => 50,
@@ -666,7 +666,7 @@ class BookSeeder extends Seeder
                 'availableCopies' => 5,
                 'synopsis' => 'Mengintegrasikan taktik pemasaran manusiawi dengan teknologi mutakhir (AI, big data, AR/VR) untuk memenangkan persaingan bisnis digital.',
                 'rating' => 4.8,
-                'coverUrl' => 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600&auto=format&fit=crop',
+                'coverUrl' => 'https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/Marketing_5_0_C_1_4_1_page-0001.jpg',
             ],
         ];
 

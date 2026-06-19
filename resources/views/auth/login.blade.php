@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Masuk Sistem - E-Pustaka Smart Library')
+@section('title', 'Masuk Sistem - Smart Library Smart Library')
 
 @section('content')
 <div class="max-w-4xl mx-auto my-8 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-xl overflow-hidden grid grid-cols-1 lg:grid-cols-12 relative z-10 transition-all duration-300">
@@ -18,17 +18,17 @@
                     </svg>
                 </div>
                 <div>
-                    <span class="heading-font font-bold text-lg tracking-tight text-white block">E-Pustaka</span>
-                    <span class="text-[9px] font-mono font-bold tracking-widest text-emerald-400 uppercase leading-none">Laravel Module</span>
+                    <span class="heading-font font-bold text-lg tracking-tight text-white block">Smart Library</span>
+                    <span class="text-[9px] font-mono font-bold tracking-widest text-emerald-400 uppercase leading-none">KELOMPOK 1 Fatih • Naufal • Khansa • Vivi</span>
                 </div>
             </div>
 
             <div class="space-y-3 pt-2">
                 <h1 class="heading-font text-2xl sm:text-3xl font-extrabold leading-tight tracking-tight text-white">
-                    Sirkulasi Buku Modern
+                    Referensi dalam Satu Tempat dan Temukan Referensi Terbaikmu
                 </h1>
                 <p class="text-[11px] text-slate-300/80 leading-relaxed max-w-sm">
-                    Gunakan portal login ini untuk masuk ke perpustakaan pintar, mengelola ulasan sastra, melakukan peminjaman buku, serta mengakses integrasi administrative.
+                    Scroll Boleh, Tapi Jangan Lupa Baca Akses ribuan koleksi buku, temukan inspirasi baru, dan nikmati pengalaman membaca yang lebih seru. 
                 </p>
             </div>
         </div>
@@ -96,7 +96,7 @@
                 <!-- Email field -->
                 <div class="space-y-1">
                     <label class="text-[10px] uppercase tracking-wider font-extrabold text-slate-500 dark:text-slate-400 block font-mono">
-                        Alamat Email *
+                        Alamat Email
                     </label>
                     <div class="relative">
                         <span class="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400">📧</span>
@@ -105,7 +105,7 @@
                             type="email"
                             name="email"
                             value="{{ old('email') }}"
-                            placeholder="Contoh: naufal@perpus.id"
+                            placeholder="masukan alamat email"
                             class="w-full px-4 py-3 pl-10 rounded-xl bg-slate-50 dark:bg-slate-850 border border-slate-200 dark:border-slate-800 text-xs text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all font-sans"
                         />
                     </div>
@@ -115,7 +115,7 @@
                 <div class="space-y-1">
                     <div class="flex items-center justify-between">
                         <label class="text-[10px] uppercase tracking-wider font-extrabold text-slate-500 dark:text-slate-400 block font-mono">
-                            Kata Sandi *
+                            Kata Sandi
                         </label>
                         <a href="#" class="text-[10px] font-bold text-blue-600 dark:text-blue-400 hover:underline">
                             Lupa Sandi?
@@ -139,7 +139,7 @@
                     class="w-full py-3 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white rounded-xl font-bold text-xs shadow-lg shadow-blue-500/10 hover:scale-[1.01] active:scale-[0.99] transition-all flex items-center justify-center gap-2 cursor-pointer mt-2"
                 >
                     <span>Masuk ke Dashboard</span>
-                    <span>➡️</span>
+                    <span></span>
                 </button>
 
             </form>

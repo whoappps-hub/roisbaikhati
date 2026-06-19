@@ -8,10 +8,10 @@
 <div class="mb-10 text-center md:text-left md:flex md:items-center md:justify-between gap-8 bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 border border-indigo-900/30 text-white rounded-3xl p-8 md:p-12 shadow-xl overflow-hidden relative">
     <div class="absolute inset-0 bg-cover bg-center mix-blend-overlay opacity-5 animate-pulse" style="background-image: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66');"></div>
     <div class="space-y-3 z-10">
-        <span class="px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-[10px] font-mono font-bold text-blue-300 uppercase tracking-widest">Dashboard Katalog Laravel PHP</span>
+        <span class="px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-[10px] font-mono font-bold text-blue-300 uppercase tracking-widest">PERPUSTAKAAN DIGITAL</span>
         <h1 class="heading-font text-3xl md:text-4xl font-extrabold tracking-tight">Cari & Telusuri Koleksi Buku Terlengkap</h1>
         <p class="text-slate-300 max-w-xl text-xs md:text-sm leading-relaxed">
-            Selamat datang di E-Pustaka Laravel. Akses 50+ referensi, literatur premium, dan asisten rekomendasi AI pintar langsung di dalam sasis Blade template Anda.
+            Selamat datang! Mari mulai menjelajahi berbagai koleksi buku dan temukan inspirasi dari setiap halaman yang Anda baca.
         </p>
     </div>
     <div class="mt-8 md:mt-0 z-10 shrink-0">
@@ -66,7 +66,7 @@
     </div>
     <div class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-850/40 flex items-center justify-between shadow-xs">
         <div>
-            <span class="block text-[10px] uppercase font-mono tracking-wider text-slate-400 dark:text-slate-500">Total Eksemplar</span>
+            <span class="block text-[10px] uppercase font-mono tracking-wider text-slate-400 dark:text-slate-500">Total Kesamaan Purwarupa </span>
             <span class="block font-bold text-3xl text-slate-900 dark:text-white mt-1 heading-font">{{ number_format($stats['total_exemplars']) }}</span>
         </div>
         <div class="w-12 h-12 rounded-xl bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center text-lg font-bold">

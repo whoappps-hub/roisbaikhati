@@ -73,12 +73,12 @@
                 </div>
 
                 <div class="space-y-1">
-                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Judul Buku *</label>
+                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Judul Buku</label>
                     <input required type="text" name="title" placeholder="Contoh: Belajar PHP Modern" class="w-full px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-750 text-sm focus:ring-2 focus:ring-blue-500 bg-white dark:bg-slate-900 text-slate-900 dark:text-white placeholder:text-slate-400">
                 </div>
 
                 <div class="space-y-1">
-                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Nama Penulis *</label>
+                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Nama Penulis</label>
                     <input required type="text" name="author" placeholder="Contoh: Dr. Herman" class="w-full px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-750 text-sm focus:ring-2 focus:ring-blue-500 bg-white dark:bg-slate-900 text-slate-900 dark:text-white placeholder:text-slate-400">
                 </div>
 
@@ -94,7 +94,7 @@
                 </div>
 
                 <div class="space-y-1">
-                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Lokasi Rak Buku *</label>
+                    <label class="text-xs font-bold text-slate-600 dark:text-slate-450 block">Lokasi Rak Buku</label>
                     <input required type="text" name="shelfLocation" value="Rak Baru A-1" class="w-full px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-750 text-sm focus:ring-2 focus:ring-blue-500 bg-white dark:bg-slate-900 text-slate-900 dark:text-white">
                 </div>
 
